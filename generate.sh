@@ -3,7 +3,7 @@
 cat preamble.md > README.md
 echo "" >> README.md
 
-for file in files/*.html; do
+for file in $(ls -r files/*.html); do
   title=$(nokogiri "$file" -e 'puts $_.at_css("title").content')
   date=$(nokogiri "$file" -e 'puts $_.at_css(".post-signature.owner .relativetime").attr("title")')
   date=$(date -d "$date" +%Y-%m-%d)
