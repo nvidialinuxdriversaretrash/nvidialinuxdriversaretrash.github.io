@@ -11,6 +11,7 @@ and use the scripts provided there.
 
 <hr>
 
+* [boot - UbuntuStudio Install on ASUS ROG GL703VD - Ask Ubuntu](https://askubuntu.com/questions/1080064/ubuntustudio-install-on-asus-rog-gl703vd) (2018-10-01) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-10-01-boot-UbuntuStudio-Install-on-ASUS-ROG-GL703VD-Ask.html))
 * [nvidia - How to un-blacklist Graphics Driver? - Ask Ubuntu](https://askubuntu.com/questions/1079844/how-to-un-blacklist-graphics-driver) (2018-09-30) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-09-30-nvidia-How-to-un-blacklist-Graphics-Driver?-Ask-Ubuntu.html))
 * [NVidia driver not loaded - Ask Ubuntu](https://askubuntu.com/questions/1079761/nvidia-driver-not-loaded) (2018-09-30) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-09-30-NVidia-driver-not-loaded-Ask-Ubuntu.html))
 * [drivers - Nvidia Settings does not start - Ask Ubuntu](https://askubuntu.com/questions/1079774/nvidia-settings-does-not-start) (2018-09-30) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-09-30-drivers-Nvidia-Settings-does-not-start-Ask-Ubuntu.html))
