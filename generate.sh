@@ -8,5 +8,7 @@ for file in files/*.html; do
   date=$(nokogiri "$file" -e 'puts $_.at_css(".post-signature.owner .relativetime").attr("title")')
   date=$(date -d "$date" +%Y-%m-%d)
   title=$(echo "$title" | sed -E 's/^\s+//' | sed -E 's/\s+$//')
-  echo "* [$title](https://nvidialinuxdriversaretrash.github.io/files/$file.html) ($date)" >> README.md
+  name=$(basename -s .html "$file")
+  url=$(cat "files/$name.url")
+  echo "* [$title]($url) ($date) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/$file.html))" >> README.md
 done

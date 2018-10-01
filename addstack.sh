@@ -17,3 +17,4 @@ fi
 
 mv tmp.html "$file"
 echo "Added $file"
+echo "$url" > "files/$date-$title.url"
