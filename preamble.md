@@ -6,6 +6,8 @@ window manager. If you frequent any Linux support forum you will be *flooded*
 with ongoing problems posted by users caused by the Nvidia drivers on Linux.
 
 If you want to add to this list simply [edit this file on
-GitHub](https://github.com/nvidialinuxdriversaretrash/nvidialinuxdriversaretrash.github.io/edit/master/README.md).
+GitHub](https://github.com/nvidialinuxdriversaretrash/nvidialinuxdriversaretrash.github.io/edit/master/README.md)
+or download [the repository](https://github.com/nvidialinuxdriversaretrash/nvidialinuxdriversaretrash/)
+and use the scripts provided there.
 
 <hr>
