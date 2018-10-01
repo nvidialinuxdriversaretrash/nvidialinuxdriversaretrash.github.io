@@ -10,5 +10,5 @@ for file in $(ls -r files/*.html); do
   title=$(echo "$title" | sed -E 's/^\s+//' | sed -E 's/\s+$//')
   name=$(basename -s .html "$file")
   url=$(cat "files/$name.url")
-  echo "* [$title]($url) ($date) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/$file.html))" >> README.md
+  echo "* [$title]($url) ($date) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/$name.html))" >> README.md
 done
