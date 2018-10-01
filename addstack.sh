@@ -18,3 +18,7 @@ fi
 mv tmp.html "$file"
 echo "Added $file"
 echo "$url" > "files/$date-$title.url"
+git add files
+./generate.sh
+git add README.md
+git commit -m "Added $url"
