@@ -11,6 +11,7 @@ and use the scripts provided there.
 
 <hr>
 
+* [dual boot - Ubuntu Partition Freezes a minute or 2 after logging in - Ask Ubuntu](https://askubuntu.com/questions/1080150/ubuntu-partition-freezes-a-minute-or-2-after-logging-in) (2018-10-01) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-10-01-dual-boot-Ubuntu-Partition-Freezes-a-minute-or-2.html))
 * [drivers - Issues on dual booting Ubuntu 18 on Dell 7559 having nvidea 960m - Ask Ubuntu](https://askubuntu.com/questions/1080061/issues-on-dual-booting-ubuntu-18-on-dell-7559-having-nvidea-960m) (2018-10-01) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-10-01-drivers-Issues-on-dual-booting-Ubuntu-18-on-Dell.html))
 * [boot - UbuntuStudio Install on ASUS ROG GL703VD - Ask Ubuntu](https://askubuntu.com/questions/1080064/ubuntustudio-install-on-asus-rog-gl703vd) (2018-10-01) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-10-01-boot-UbuntuStudio-Install-on-ASUS-ROG-GL703VD-Ask.html))
 * [nvidia - How to un-blacklist Graphics Driver? - Ask Ubuntu](https://askubuntu.com/questions/1079844/how-to-un-blacklist-graphics-driver) (2018-09-30) ([mirror](https://nvidialinuxdriversaretrash.github.io/files/2018-09-30-nvidia-How-to-un-blacklist-Graphics-Driver?-Ask-Ubuntu.html))
